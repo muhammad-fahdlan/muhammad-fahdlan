@@ -1,9 +1,9 @@
-Hi, I'm [Your Name]
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+Hi, I'm Muhammad Fahdlan Bin Roslan
+Computer Science student at UiTM interested in SPECIAL TOPICS IN COMPUTER SCIENCE
 About me
 Studying: Computer Science, UiTM
-Currently learning: [topics]
-My FYP area: [your area, or "still deciding"]
+Currently learning: SPECIAL TOPICS IN COMPUTER SCIENCE
+My FYP area: still deciding
 Skills and tools
 [List what you know. Example: Python, Git, SQL]
 Projects
